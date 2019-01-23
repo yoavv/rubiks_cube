@@ -5,4 +5,4 @@ My hello world to python - Rubik's cube solved using A-star algorithm
 1.Playable with the keyboard keys  
 2. solvable with the push of a button which triggers the A-star algorithm, which makes use of a modular hueristic funtion
 
-[](images/rubix.png)
+![](images/rubix.png)
